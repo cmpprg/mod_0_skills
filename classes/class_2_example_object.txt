@@ -1,0 +1,14 @@
+Object: Formal Table
+
+Attributes:
+shape: "rectangle"
+seatsTaken: 10
+maxNumberSeats: 12
+colorOfCovering: "white lace"
+
+Methods:
+changeShape (shape = "round")
+changeColor (colorOfCovering = "red poly cotton blend")
+seatsAvailable (12 - 10 = 2)
+seatVacated (10 - 1 = 9)
+seatsAvailable (12 - 9 = 3)
