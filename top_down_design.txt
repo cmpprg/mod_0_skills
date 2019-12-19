@@ -1,0 +1,56 @@
+how to become a Turning student
+1 research bootcamps online
+  1.1 get online
+    1.1.1 turn on your computer
+      1.1.1.1 depress on button located on hardware of your computer
+      1.1.1.2 wait for boot sequence to complete
+    1.1.2 log into operating system
+      1.1.2.1 type in your username
+      1.1.2.2 type in your password
+      1.1.2.3 press enter
+    1.1.3 open browser
+  1.2 type "coding bootcamps" into google
+  1.3 review results
+    1.3.1 click into each bootcamp website
+      1.3.1.1 click on Galvanize website
+      1.3.1.2 click on Turing website
+    1.3.2 review content, including mission statements, of each website
+2 talk to friends about options
+  2.1 find friends who attended each school
+    2.1.1 put out facebook public message asking who attended bootcamps
+      2.1.1.1 log onto facebook
+        2.1.1.1.1 navigate to facebook website
+        2.1.1.1.2 type in username
+        2.1.1.1.3 type in password
+        2.1.1.1.4 click enter
+      2.1.1.2 type in message
+      2.1.1.3 press enter
+    2.1.2 wait for response
+    2.1.3 take note of who responds
+      2.1.3.1 write down friends you decide to contact
+  2.2 contact friends
+    2.2.1 pick up your telephone
+    2.2.2 dial friends number
+    2.2.3 talk to friends about bootcamp XP
+  2.3 make a decision
+3 sign up at turing.io
+  3.1 navigate to Turing website
+  3.2 read more information
+    3.2.1 read front end information
+    3.2.2 read back end information
+  3.3 make a decision on which program
+  3.4 sign up and take assessment
+  3.5 wait for Turning to contact you.
+4 complete interview
+  4.1 schedule a meeting date and time
+  4.2 journey to Turing
+    4.2.1 drive to lightrail station
+    4.2.2 get on lightrail
+    4.2.3 get off lightrail downtown
+    4.2.4 walk to turing
+  4.3 complete interview
+    4.3.1 talk to interviewers
+    4.3.2 take logic test
+    4.3.3 shake hands
+    4.3.4 wait for response
+    4.2.5 get accepted
