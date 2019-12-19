@@ -1,7 +1,6 @@
 Class: Menu
 
 Attributes:
-
 numberOfItems (integer)
 colorScheme (string)
 veganItems (boolean)
