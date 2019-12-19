@@ -1,0 +1,13 @@
+Class: Table
+
+Attributes:
+shape (string)
+seatsTaken (integer)
+maxNumberSeats(integer)
+colorOfCovering (string)
+
+Methods:
+changeShape (change shape attribute)
+changeColor (change colorOfCovering)
+seatsAvailable (maxNumberSeats - seatsTaken)
+seatVacated (seatsTaken -1)
