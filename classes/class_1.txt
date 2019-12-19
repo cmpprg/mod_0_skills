@@ -1,0 +1,14 @@
+Class: Menu
+
+Attributes:
+
+numberOfItems (integer)
+colorScheme (string)
+veganItems (boolean)
+recipes (array)
+
+Methods:
+readMenu (iterate through recipes and puts them to terminal)
+changeColorScheme (change colorScheme attribute)
+meatDay(toggle veganItems attribute to false)
+addItem(append item to recipes and add 1 to numberOfItems)
