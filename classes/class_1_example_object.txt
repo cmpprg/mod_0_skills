@@ -1,18 +1,18 @@
 Object: Ryan's Restaurant
 
 Attributes:
-numberOfItems: 3
-colorScheme: "black and red"
-veganItems: true
+number_of_items: 3
+color_scheme: "black and red"
+vegan_items: true
 recipes: ["pizza", "plate of veggies", "pasta"]
 
 Methods:
-readMenu (
+read_menu (
            recipes.each do |item|
              puts "1. #{item}"
            end                   )
 
-changeColorScheme( colorScheme = "orange and white")
-meatDay( veganItems = false)
-addItem( recipes.append "tortellini"
-          numberOfItems += 1)
+change_color_scheme( color_scheme = "orange and white")
+meat_day( vegan_items = false)
+add_item( recipes.append "tortellini"
+          number_of_items += 1)
