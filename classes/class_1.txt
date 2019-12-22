@@ -1,13 +1,13 @@
 Class: Menu
 
 Attributes:
-numberOfItems (integer)
-colorScheme (string)
-veganItems (boolean)
+number_of_items (integer)
+color_scheme (string)
+vegan_items (boolean)
 recipes (array)
 
 Methods:
-readMenu (iterate through recipes and puts them to terminal)
-changeColorScheme (change colorScheme attribute)
-meatDay(toggle veganItems attribute to false)
-addItem(append item to recipes and add 1 to numberOfItems)
+read_menu (iterate through recipes and puts them to terminal)
+change_color_scheme (change color_scheme attribute)
+meat_day(toggle vegan_items attribute to false)
+add_item(append item to recipes and add 1 to number_of_items)
