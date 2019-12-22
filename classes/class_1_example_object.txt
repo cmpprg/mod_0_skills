@@ -8,11 +8,14 @@ recipes: ["pizza", "plate of veggies", "pasta"]
 
 Methods:
 read_menu (
-           recipes.each do |item|
-             puts "1. #{item}"
-           end                   )
+          recipes.each_with_index do |item, index|
+            puts "#{index+1}. #{item}"
+          end
+          )
 
 change_color_scheme( color_scheme = "orange and white")
 meat_day( vegan_items = false)
-add_item( recipes.append "tortellini"
-          number_of_items += 1)
+add_item( recipes.append "tortellini")
+
+CHALLENGE:
+number_of_items ( puts recipes.count )
